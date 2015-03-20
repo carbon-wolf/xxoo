@@ -46,7 +46,7 @@
    * [自慰的方法](still/high.md)
    * [舔B经验总结](still/eat.md)
    * [其他](more/README.md)
-       * [巧吃水果增强性功能](more/fruit.md)
+       * [巧吃水果增强性功能](more/README.md)
        * [用眼睛辨别真假处女](more/girl.md)
        * [壮阳六要](more/strong.md)
        * [男性壮阳食品](more/food.md)
