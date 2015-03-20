@@ -31,11 +31,11 @@
    * [高级计划书](aplan/README.md)
 * 完全不射精手册
    * [序](still/README.md)
-   * [控制不射精](still/control.md)
+   * [控制不射精](control/basic.md)
        * [基础篇](control/basic.md)
        * [理论篇](control/book.md)
        * [实务篇](control/real.md)
-   * [增大练习](still/max.md)
+   * [增大练习](still/exec1.md)
        * [练习Ⅰ](max/exec1.md)
        * [练习Ⅱ](max/exec2.md)
        * [练习Ⅲ](max/exec3.md)
