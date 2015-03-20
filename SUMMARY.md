@@ -17,7 +17,6 @@
        * [阿拉伯JELQ法](exec/1.md)
        * [长度增加练习](exec/2.md)
        * [强力拉伸](exec/3.md)
-       * [勃起增强练习](exec/4.md)
        * [强力JELQ法](exec/5.md)
        * [PC肌锻炼](exec/6.md)
        * [睾丸保健按摩法](exec/7.md)
