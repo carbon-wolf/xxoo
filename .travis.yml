@@ -8,7 +8,7 @@ before_install:
 - sudo apt-get install calibre
 
 install:
-- npm imstall gitbook -g
+- npm install gitbook -g
 - npm install ebook-convert
 
 script:
