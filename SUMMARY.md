@@ -51,6 +51,5 @@
        * [男性壮阳食品](more/food.md)
        * [现代男人饮食九要素](more/now.md)
    * [补充](add/README.md)
-* [完全不射精手册](handbook/README.md)
 * [附录](addon/README.md)
 
