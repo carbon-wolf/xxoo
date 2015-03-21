@@ -1,0 +1,16 @@
+language: node_js
+
+node_js:
+- '0.10'
+
+before_install:
+- sudo apt-get update
+- sudo apt-get install calibre
+
+install:
+- npm imstall gitbook -g
+- npm install ebook-convert
+
+script:
+- gitbook epub ./
+- gitbook mobi ./
